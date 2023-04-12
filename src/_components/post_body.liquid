@@ -1,18 +1,18 @@
 <div>
   {% if main %}
-    <h1>{{ data.title }}</h1>
+    <h1 class="text-6xl text-center font-thin mt-4 mb-2">{{ post.data.title }}</h1>
   {% else %}
-    <h2>
-      <a href="{{ post.relative_url }}">{{ post.data.title }}</a>
+    <h2 class="text-6xl text-center font-thin mt-4 mb-2">
+      <a href="{{ post.relative_url }}" class="text-inherit no-underline">{{ post.data.title }}</a>
     </h2>
   {% endif %}
 
-  <div class="flex items-center">
-    <div>Naomi Bennett</div>
+  <div class="flex items-center justify-center text-gray-600 space-x-2">
+    <div>{{ post.data.author }}</div>
     <div>{{ post.data.date | date: '%B %m, %Y' }}</div>
   </div>
 
-  <div>
+  <div class="mt-4 prose prose-lg">
     {{ post.content }}
   </div>
 
