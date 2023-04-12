@@ -1,4 +1,5 @@
 # Bridgetown
+public
 output
 .bridgetown-cache
 .bridgetown-metadata
@@ -34,3 +35,5 @@ yarn-debug.log*
 .pnp.js
 # Yarn Integrity file
 .yarn-integrity
+
+frontend/styles/jit-refresh.css
