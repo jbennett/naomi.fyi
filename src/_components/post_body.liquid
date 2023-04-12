@@ -1,0 +1,19 @@
+<div>
+  {% if main %}
+    <h1>{{ data.title }}</h1>
+  {% else %}
+    <h2>
+      <a href="{{ post.relative_url }}">{{ post.data.title }}</a>
+    </h2>
+  {% endif %}
+
+  <div class="flex items-center">
+    <div>Naomi Bennett</div>
+    <div>{{ post.data.date | date: '%B %m, %Y' }}</div>
+  </div>
+
+  <div>
+    {{ post.content }}
+  </div>
+
+</div>
