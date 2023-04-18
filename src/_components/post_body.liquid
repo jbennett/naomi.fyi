@@ -1,14 +1,14 @@
-<div>
+<div class="flex flex-col">
   {% if main %}
-    <h1 class="text-6xl text-center font-thin mt-4 mb-2">{{ post.data.title }}</h1>
+    <h1 class="mt-6 text-4xl font-bold tracking-tight text-zinc-800 xdark:text-zinc-100 sm:text-5xl">{{ post.data.title }}</h1>
   {% else %}
-    <h2 class="text-6xl text-center font-thin mt-4 mb-2">
+    <h2 class="mt-6 text-4xl font-bold tracking-tight text-zinc-800 xdark:text-zinc-100 sm:text-5xl">
       <a href="{{ post.relative_url }}" class="text-inherit no-underline">{{ post.data.title }}</a>
     </h2>
   {% endif %}
 
-  <div class="flex items-center justify-center text-gray-600 space-x-2">
-    <div>{{ post.data.author }}</div>
+  <div class="order-first flex text-base text-zinc-400 xdark:text-zinc-500 space-x-2 border-l-4 border-zinc-200 xdark:bg-zinc-500 pl-2">
+    {% comment %}<div>{{ post.data.author }}</div>{% endcomment %}
     <div>{{ post.data.date | date: '%B %m, %Y' }}</div>
   </div>
 

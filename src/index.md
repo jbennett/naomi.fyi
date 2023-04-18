@@ -5,7 +5,7 @@ paginate:
   collection: posts
 ---
 
-<div>
+<div class="mx-auto max-w-prose space-y-12">
   {% for post in paginator.resources %}
     {% render 'post_body', post: post %}
   {% endfor %}
