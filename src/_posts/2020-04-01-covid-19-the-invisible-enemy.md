@@ -1,0 +1,13 @@
+---
+title: "COVID-19: The Invisible Enemy"
+---
+
+It’s interesting how something like a virus can literally stop our whole world. It seems like only a few short weeks ago that COVID-19 was in the news, but it was in Asia, and not to say that I don’t care about global issues, but at that time I was concentrated on Miles turning three, Zackary’s spelling test and whether Timothy remembered to bring home his hats and mitts from school (cause let’s be real, in JK those things are not of top priority). And then, although not out of nowhere, we are to stay within the home.
+
+The whole situation seems dreamlike. Unlike wartime when people were in fear of a physical enemy our enemy now, is unseen. I don’t know if that is more terrifying because at any moment you could be face-to-face with the virus and not be completely aware. Honestly, it messes with your mind. With being a homemaker, I love the opportunity to get out of the house and would often treat grocery shopping as an outing, and now, even though the fridge is empty, I don’t wanna go.
+
+But the concept of our enemy being unseen should not be a new concept to me being a believer in Jesus Christ. In Ephesians the bible states that “ our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this dark world and against the spiritual forces of evil in the heavenly realms” (6:12). So our enemy has always been invisible. “Our enemy, the devil, prowls around looking for someone to devour” (1 Peter 5:8). I think we are more aware of the threat because our physical bodies are coming under attacker, whereas our spiritual bodies have always been.
+
+And then there is the self-isolation. So not only are we feeling the most vulnerable than we may have in our whole lives, but we are to stay away from some of those that we hold most dear. And church being cancelled due to a virus was not something that I would have ever dreamed. And I’m sure the enemy is liking the fact that we are unable to worship together in a community, small groups etc. So my request is to keep the faith. The disciples demonstrate this well while in prison. We can do war on our knees, in our homes, with our spouses, children or alone. God hears us; let’s pray his word, for he promises that “[his] word will not return empty, but will accomplish…and achieve the purpose for which [he] sent it” (Isaiah 55:11). Let’s believe him in that! So onward Christian soldiers; let’s fight our enemy.
+
+Praying for you all.

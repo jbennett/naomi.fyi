@@ -1,0 +1,19 @@
+---
+title: Bless His Heart
+---
+
+There are so many wonderful things that come along with parenting: watching your child take their first step; hearing their first laugh; watching them learn to ride their bike; teaching them to read and write; watching as their interests develop. These are all things that warm a parents heart and just make life so joyful. But, let’s be real there are many elements of parenting that make you wonder what the heck is going on in their underdeveloped brain…..
+
+Of course, then you wise up and remember it is just that… underdeveloped. It is gonna take years and years of you repeating yourself in both word and action for them to finally get what you are saying (that or they finally learn the art of listening to you :)
+
+I experience my frustrations with parenting the most when it comes to cleanliness and their willingness to help around the house without grumbling and complaining….I get it kiddos! No one really wants to sweep the floor five times a day….ooooh wait….that’s my life hahah. I know they are tired of hearing me say that “this is part of being a family member,” or asking them if they hear mommy complain when she has to do their laundry (to which the answer is no, if you are wondering. Could you imagine a thirty-four year old woman stomping and crying and she declares that the world is unfair; she did not wear all these clothes so why should she have to do ALL the work. That would be a very unpleasant sight). I digress, I’m sorry.
+
+However, the other day I felt like the heavens opened when my seven year old came to me and declared that he was going to clean the bathroom for me. “You want to clean the bathroom? Like the bathroom….you wanna clean it?” I thought that he must be meaning something….it was like when Miles (our three year old) came to me asking for some basketball and pointing to the cupboard. I for the life of me could not figure out what he was referring to, until I realized that he wanted a flavour shot to his water….he thinks the design on it looks like a basketball. So yeah, some form of communication breakdown. He insisted, “Mom I would like to clean the bathroom. Could you go and get me the cloths that you use for the counter and mirror.” Not a problem…my insides were definitely sprinting as I went to get the items. But y’all, it didn’t stop there: “Mom can you show me how to clean the toilet.” Merciful Jesus! It is like a modern day miracle has been performed in my house!!!! “You wanna clean the toilet…like scrub the toilet the bowel and everything?” “Yes, I wanna do it so that it is one less thing that you have to do.” Oh my goodness. I am pretty sure I turned into a puddle on that bathroom floor. Not only did he think about helping, he did it to take one things off of my to-do list. What a beautiful child.
+
+One of friends asked me if I thought he wanted something and he was buttering me up in order to get it lol. But prior to that we began to see little changes in the things that he had been doing around the house: it began with taking all the boys’ laundry down to the machine at the end of the day; cleaning the entire toy room even after I told him to wait until his brothers were down there too (since he really didn’t make much of the mess with being at school the whole day); sweeping the kitchen floor and asking to make his own lunch. My goodness. And in case you are wondering, no, he has not asked for anything.
+
+So as much as there are moments where I wonder….we’ll just leave it at that….I wonder…there are these moments where you realize that they will get there.
+
+Oh yeah, and one more thing, he wants to have a pair of his own rubber gloves so we don’t have to share.
+
+Until next time xoxoxo

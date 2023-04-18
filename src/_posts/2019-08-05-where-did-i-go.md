@@ -1,0 +1,25 @@
+---
+title: Where Did I Go?
+---
+
+Do you ever have those moments in your life where you just checkout? You are still physically present, but emotionally you just remove yourself…like some kind of self preservation or just due to burnout? Well, that is what happened to me this winter/spring.
+
+I entered into a time of extreme burnout, which led me to retreat from a lot of the people, places and activities that would normally give me joy and fulfillment. And after months of feeling like the walls were caving in on me, I am trying to put myself out there again despite how I may “feel” at times. I don’t have to tell all of you who have experienced what I am describing, that putting yourself out there again and trying to be “normal” is quite exhausting. So how did I get here?
+
+It all began almost two and half years ago when my third little man entered our lives. Along with the joy of having Miles, came the challenges of yet another postpartum experience. Gahhh, I was hoping that the postpartum would have been restricted to my story with Timothy, but no, it came nonetheless. But this time it was different again. I kept pushing the feelings of drowning down, down, down, in the hopes that if I ignored it, it would go away. But as you know, ignoring something only creates a ticking time bomb.
+
+Additionally, Jonathan’s business was embarking on a very busy time, that took much of his spare time and energy, leaving me to carry more fully the family life. I honestly, am devastated to say that the pressure I put on myself to be everything for everyone lead to a breakdown. I cannot tell you how many times I just wanted to run away; the demands of my role as wife and mother felt so smothering. I found myself becoming only reactive to the things and men in my life…I became someone I didn’t know. I thought that they would all be so much better without me-that someone else would be able to bring stability and joy into their lives. I almost packed my bags. So what kept me here?
+
+First, I wanna say that I believed the Lord could restore me both physically and emotionally…that He could throw me the life raft that I so desperately needed; and I knew these things to be true, but I didn’t feel like I could tread water for one.more.second. I believe it was God that kept me here…why?…we only have one car and I didn’t feel right leaving the guys with no mode of transportation.
+
+And as much as Jonathan could see what was going on, I didn’t want to talk about it. I didn’t want him to feel burdened beyond what he was carrying with the business. Why add more to his plate? But, then came the breaking point. I finally was honest; I told him about all the swirling thoughts in my mind; how I felt like I was a volcano about to erupt everyday; how I felt guilt and shame over my emotions; how I didn’t want to be here anymore; I wasn’t equipped; I wasn’t enough; I just couldn’t do it. Of course we started talking about how he could help me, and hopefully come up with a plan.
+
+It wasn’t until I was watching a vlog that I feel like the Lord pushed me to seek additional help. Ellie from the vlog Ellie and Jared, was talking about all her symptoms that led her to seek help with her hormones. Hormones?! And then I began to take account of my mental and physical state….I had told people that I figured my hormones were off since my postpartum symptoms were not letting up despite Miles being two. But wow, that was a thing you could seek medical attention for.
+
+That led me to see a wonderful naturopath named Eryn Darling. After discussing my symptoms, she asked to test my adrenals as well as do the live blood cell analysis. Of course, why not…what did I have to lose? Well, she liked to see a count of 12 and I was a 2…at least we now knew why after a nine hour sleep I would still have burning eyes :) Sooo to nut shell it, my liver and digestive system were in distress, my body was not absorbing nutrients of any kind, so yeah, I was competed depleted.
+
+I am happy to say that I have been working on my hormones since with both diet and supplements. I have seen changes in my energy levels (not that I don’t have days of feeling exhausted….but remember I have three young kids :) However, the greatest blessing has been my mental state. I still have days of struggling with not being enough, and not feeling equipped, but that is where I have to go to my precious Jesus and thank Him for the promise that “when I am weak, He is strong (2 Corinthians 12: 9-11). I hold to the fact that He won’t leave…He won’t leave His plan for me unfinished…and I have to rest in that (Hebrews 13:5; Philippians 1:6).
+
+So if you are experiencing any of the above, let me encourage you that are not alone, and you are not going crazy (which is what I was struggling with)…there are professional people out there who can help you get back to your lovely self!
+
+Until next time. Xo
