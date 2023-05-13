@@ -1,0 +1,25 @@
+---
+title: Christmas, Christmas Time is Here!
+---
+
+Are you a big Christmas person? Do you count down the days until Christmas music will be playing throughout your home, the tree is up and glowing and cookies are coming out of the oven? I am one of those persons (minus the cookies...I am not a super big baker lol). We start is early around here too, and by that I mean, early for others...just right for us!
+
+My love of Christmas began as a child through my momma. I remember waiting for there to be a threat of a snow storm and that is when we would go and pick out our Christmas tree. The one year in particular that stands out in my mind, is when the weather was so bad that the store closed their doors and our paid for Christmas tree was behind locked gates!!! The result, my brother and his buddy hoisting my dad over the gate to get the tree and lifting it over to the two. Oh such good times. It was freezing and snow was everywhere, but that is way we like it.
+
+I think the reason why I love Christmas so much is the warmth that was always attached to it. The beautiful carols would play while we just sat and did our homework in the presence of twinkling lights. The smells that would come out of the kitchen were just amazing. (As a side note, my mom always made tins of goodies for her customers and us kids would secretly pray that the batch wouldn’t turn out so we could have them!). We would all get dressed up and attend the Christmas Eve service where we would hear more of God’s amazing gift while sitting in a candlelit room. We would spend time with family and friends that we did not see on a regular basis. And the whole day of Christmas would be spent together...there was no rush to this or that-as close as perfection as you can get in my opinion.
+
+Now I am a momma of three, and I think I have infected them with the love of Christmas. For instance, in the summer my boys were already asking for me to play Christmas carols. And as October approached we began to count down the days until the tree went up. We put the tree up on Halloween and I make a day out of it; I set all the boys decorations aside so that they can choose where to put them (now, I do coach here and there, showing possible bare spots, but I don’t physically help them unless they ask). We then go out and select the ornament to get for daddy for Christmas (everyone gets a new ornament for Christmas. That is something my parents did and I abolsutley love it).
+
+Now this year I had to put the Christmas decoration out in stages. I started with the basement-putting the pencil Christmas tree up by the fireplace as well as the Christmas Village and nativity scene. From there we put up the upstairs tree (in the main window, of course ;) and then the boys trees in their rooms. The boys have three foot trees, so it is not like we have four seven foot trees. However, it means that when Miles gets old enough I am gonna have to get him one too, right?!
+
+This year is a little different in the sense that we currently have no work Christmas parties to attention....weird.... Definitely one of the things I really miss about being on staff because the Christmas party always rocked!
+
+Christmas morning is also filled with tradition around here too: we get the kids up and they open their stockings on our bed (something Jonathan’s parents did with them that I think is sooo cute) and after that is done we make our way to the kitchen where we eat Mom’s Saver; this is a baked dish with bread, egg, ham and cheese....so marvellous. And when we are finished that and the kitchen is tidy, we make our way to the Christmas tree to unwrap the few gifts that are there. (We decided early on that we didn’t want to go overboard on gifts each year, so the kids get something they will wear (pjs), something they will read, something they need, and something they want). And the rest of the day is spent playing with the new toys, reading books and prepping for the dinner!
+
+Something that we are still working on is where to read from Luke about Jesus coming as a baby. We have tried it at the breakfast table, and before we open presents, but we haven’t decided on our favourite. A few Christmases back from my brother and sister-in-law we received a book that has a story each day for the week up to Christmas where to unfolds the story of Christ’s birth- so the one day you read about Gabriel and his story and the present that you unwrap is Gabriel; the next day is about Joseph, so on until the story is complete. I love it, it is so great. And the kids enjoy the whole process too. What do you do with your families surrounding Jesus’ birth?
+
+I am so excited that it is only a few weeks away! I hope you are all too.
+
+What are some of your favourite traditions? If married, have you taken some from each side? I hope that this Christmas season brings you joy and peace; that you do not get caught up in the craziness of commercialism, and that you make time for what matters most.
+
+Until next time! Xoxxo

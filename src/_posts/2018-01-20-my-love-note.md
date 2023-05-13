@@ -1,0 +1,23 @@
+---
+title: My Love Note
+---
+
+My house is quiet! The kiddies are all tucked in and asleep. Interruptions have been very frequent the past few weeks-we went through another little bout of sickness (Jonathan and I got it the worst), so mommy got called fairly regularly to come, tuck the boys in and of course include a hug and kiss.
+
+I was down and out with this cold bug; I don’t tend to get sick very often, so this hit me pretty hard. Now, that I think of it, I have not been sick like that in years! Not nice, especially when you are the one who is the primary caregiver. I was so grumpy and attached to the couch. I felt bad for the kids, but it was really all I could do to get them some food. They were gracious, but man, did I ever feel like a useless individual.
+
+It was rough. I felt very inadequate. Being sick as a mom is different (in my experience anyways) than being sick as a young adult because I could see all my tasks piling up in front of my eyes, but not having the energy to complete them; whereas, when I was a young adult with no kids, I simply would stay in bed and nothing would really get out of place because I didn’t leave the bedroom haha.
+
+I was not a fun person to be around: my body was tired so I just plain wanted to be left to myself...good luck with that! I found myself being very short with the boys whether it was warranted or not. Momma bear reared her ugly head again. Oh Lord, forgive my lack of self-control.
+
+Out of those moments it occurred to me today, that I am not doing a very good job at taking in all the wonderful things that God has been doing or has done. Postpartum has also hit me hard and the combination just kinda took me on a very dark ride.
+
+So as I was trying to nap and crying I realized that I need to make mental notes and even physical notes of all the good that is taking place. For instance, this morning the very first thing that Zackary did was come into our room, give me a big hug and tell me how much he loved me; or how Timothy is really starting to problem solve and is including words such as “actually” in his sentences; and that Miles is moving and rolling around and just loving every minutes of it. Or that my husband, despite how I look after blowing my nose for the five hundredth time, still tells me that I am the most beautiful woman he has ever seen. Like, can we say blessed.
+
+And I guess that is my point. It is so hard when you are in a state of depression or a season of darkness to see the light...to see the good. But we gotta look for it, we gotta hold onto that. If we don’t then we are overcome and defeated by that darkness. If truth be told, the last eight months have been dark...and the darkness took over in a gradual way at first and then it became all consuming. And being even more transparent, I haven’t really talked about it because I haven’t wanted to admit it. I finally expressed my internal turmoil to a friend and she said “well you hide it well.” I smiled and thought, “yup, I can be a pretty darn good actress when I wanna be.”
+
+I have been here before so I know it will get better. I know that the moments of joy and peace will begin to become a larger part of my days. And I look forward to that with great anticipation.
+
+With that all being said, I do want encourage you to find those moments whether past or present that make you smile, or show you how much God adores you. For me, it was the snow that we got the other day. I love snow...in fact my mother-in-law and I used to say that if it was snowing God loved me more and if it wasn’t God loved her more...now, I know that there are some serious flaws in that, but....just go with me. My love for snow has always been there, from sledding, building snowmen and snow forts to just going for a walk when it was snowing. I just love it. Well, fast forward to when I was a teenager and we lived on a street where the street lights looked more like lamp posts. And so on the nights that there would be a steady blanket of snow falling, I would sit on the couch by the window and just watch as the beautiful snowflakes would pass by the light....so gorgeous, so perfect. In those moments of silent beauty, I felt like the Lord was whispering His very own love letter to me. That feeling of closeness with my Maker has continued to this day. The other night I stood at my window and watched as the snow slowly fell and collected on our lights (because yes, we have not taken down or turned off our Christmas lights...we are serious about our decorations over here :) And in that quiet moment, once again, God just whispered to my heart. What’s your moment? Go, find it, and dwell on that...see how God’s light can penetrate the darkness.
+
+Blessings to you.
