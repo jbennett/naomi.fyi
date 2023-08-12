@@ -1,5 +1,5 @@
 ---
-title: Timothy Update: Speech
+title: "Timothy Update: Speech"
 ---
 
 Timothy had his first speech assessment on Wednesday. I went solo with Timothy, which ended up being a really good thing since I did not know what to expect from the meeting.
