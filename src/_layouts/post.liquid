@@ -5,3 +5,19 @@ layout: default
 <div class="mx-auto max-w-prose space-y-12">
   {% render 'post_body', post: resource, main: true %}
 </div>
+
+<div class="mx-auto max-w-prose mt-16 flex justify-between">
+  {% if resource.previous %}
+    <a href="{{ resource.previous.relative_url }}">
+      <span class="text-sm font-semibold text-neutral-950">Previous Post</span><br>
+      <span class="text-lg text-fuchsia-600">{{ resource.previous.title }}</span>
+    </a>
+  {% endif %}
+
+  {% if resource.next %}
+    <a href="{{ resource.next.relative_url }}" class="text-right">
+      <span class="text-sm font-semibold text-neutral-950">Next Post</span><br>
+      <span class="text-lg text-fuchsia-600">{{ resource.next.title }}</span>
+    </a>
+  {% endif %}
+</div>
