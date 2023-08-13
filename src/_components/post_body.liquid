@@ -1,19 +1,19 @@
 <div class="flex flex-col">
   {% if main %}
-    <h1 class="mt-6 text-4xl font-bold tracking-tight text-zinc-800 xdark:text-zinc-100 sm:text-5xl">{{ post.data.title }}</h1>
+    <header class="mx-auto flex max-w-5xl flex-col text-center">
+      <h1 class="mt-6 font-display text-5xl font-medium tracking-tight text-neutral-950 [text-wrap:balance] sm:text-6xl">{{ post.data.title }}</h1>
+      <div class="order-first text-sm text-neutral-950">{{ post.data.date | date: '%B %m, %Y' }}</div>
+      {% comment %}<div class=""mt-6 text-sm font-semibold text-neutral-950">{{ post.data.author }}</div>{% endcomment %}
+    </header>
   {% else %}
-    <h2 class="mt-6 text-4xl font-bold tracking-tight text-zinc-800 xdark:text-zinc-100 sm:text-5xl">
+    <h2 class="mt-6 text-4xl font-bold tracking-tight sm:text-5xl text-red-400">
       <a href="{{ post.relative_url }}" class="text-inherit no-underline">{{ post.data.title }}</a>
     </h2>
   {% endif %}
 
-  <div class="order-first flex text-base text-zinc-400 xdark:text-zinc-500 space-x-2 border-l-4 border-zinc-200 xdark:bg-zinc-500 pl-2">
-    {% comment %}<div>{{ post.data.author }}</div>{% endcomment %}
-    <div>{{ post.data.date | date: '%B %m, %Y' }}</div>
+  <div class="[&>*]:mx-auto [&>*]:max-w-3xl [&>:first-child]:!mt-0 [&>:last-child]:!mb-0 mt-24 sm:mt-32 lg:mt-40">
+    <div class="mt-4 prose prose-lg">
+      {{ post.content }}
+    </div>
   </div>
-
-  <div class="mt-4 prose prose-lg">
-    {{ post.content }}
-  </div>
-
 </div>
