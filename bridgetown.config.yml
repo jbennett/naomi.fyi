@@ -25,8 +25,8 @@ pagination:
   enabled: true
   per_page: 5
   trail:
-    before: 3
-    after: 3
+    before: 2
+    after: 2
 
 # Other options you might want to investigate:
 #
