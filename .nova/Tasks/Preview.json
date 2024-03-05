@@ -1,0 +1,9 @@
+{
+  "actions" : {
+    "run" : {
+      "enabled" : true,
+      "script" : "#!\/bin\/zsh\n\nbin\/bridgetown start --unpublished &\nsleep 1 && open \"http:\/\/localhost:4000\"\nwait\n"
+    }
+  },
+  "openLogOnRun" : "fail"
+}
